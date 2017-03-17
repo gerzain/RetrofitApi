@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitClientes</string>
+    <string name="pesos">$</string>
+    <string name="id">ID</string>
+</resources>
